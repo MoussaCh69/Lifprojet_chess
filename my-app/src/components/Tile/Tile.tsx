@@ -9,7 +9,7 @@ interface Props{
 
 export default function Tile({number}: Props){
     if(number%2===0)
-        return <div className="tile black-tile"><img src={pion_noir}/></div>; // pas encore au point
+        return <div className="tile black-tile"><img src={pion_noir} alt="pion noir"/></div>; // pas encore au point
     else
-        return <div className="tile white-tile"><img src={pion_blanc}></img></div>;
+        return <div className="tile white-tile"><img src={pion_blanc} alt="pion blanc"></img></div>;
 }
