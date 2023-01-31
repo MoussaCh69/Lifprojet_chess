@@ -1,11 +1,11 @@
 import React from 'react';
-import ReactDOM from 'react-dom';
 import './App.css';
+import Chessboard from './components/Chessboard/Chessboard';
 
 function App(){
     return(
-        <div>
-            Chess game test affichage !
+        <div id="app">
+            <Chessboard/>
         </div>
     );
 }
