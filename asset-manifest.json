@@ -1,12 +1,13 @@
 {
   "files": {
-    "main.css": "/Lifprojet_chess/static/css/main.31d6cfe0.css",
-    "main.js": "/Lifprojet_chess/static/js/main.b47f2c26.js",
+    "main.css": "/Lifprojet_chess/static/css/main.2d10f851.css",
+    "main.js": "/Lifprojet_chess/static/js/main.a1f8fe51.js",
     "index.html": "/Lifprojet_chess/index.html",
-    "main.b47f2c26.js.map": "/Lifprojet_chess/static/js/main.b47f2c26.js.map"
+    "main.2d10f851.css.map": "/Lifprojet_chess/static/css/main.2d10f851.css.map",
+    "main.a1f8fe51.js.map": "/Lifprojet_chess/static/js/main.a1f8fe51.js.map"
   },
   "entrypoints": [
-    "static/css/main.31d6cfe0.css",
-    "static/js/main.b47f2c26.js"
+    "static/css/main.2d10f851.css",
+    "static/js/main.a1f8fe51.js"
   ]
 }
