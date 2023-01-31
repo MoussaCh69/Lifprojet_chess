@@ -5,7 +5,7 @@ import './App.css';
 function App(){
     return(
         <div>
-            Chess game test !
+            Chess game test affichage !
         </div>
     );
 }
