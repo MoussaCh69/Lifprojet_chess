@@ -1,3 +1,3 @@
 # MoussaCh69.github.io
 
-Lifprojet steup
+LIFPROJET - Chess game by CHENINI HADJ Moussa, KANE Mamadou and WAKENHUT Steven
