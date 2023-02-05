@@ -1,2 +1,0 @@
-body{margin:0}#app{background-color:#000;display:grid;height:100vh;place-content:center}.tile{height:100px;width:100px}.black-tile{background-color:#779556}.white-tile{background-color:#ebecd0}#chessboard{display:grid;grid-template-columns:repeat(8,100px);grid-template-rows:repeat(8,100px);height:800px;width:800px}
-/*# sourceMappingURL=main.2d10f851.css.map*/
